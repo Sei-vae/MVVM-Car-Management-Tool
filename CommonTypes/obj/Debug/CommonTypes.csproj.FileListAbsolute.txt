@@ -1,0 +1,6 @@
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Sei\Desktop\Code\E2Fi1BT\KFZApp\CommonTypes\obj\Debug\CommonTypes.pdb
